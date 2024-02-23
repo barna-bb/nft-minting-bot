@@ -35,4 +35,4 @@ $ npm install
 `$ node ./scripts/mint.js`
 
 ## Acknowledgement
-This project is based on a tutorial by [DApp University](https://www.youtube.com/@DappUniversity)
+This project is based on a tutorial by [DApp University](https://www.youtube.com/@DappUniversity).
