@@ -1,7 +1,7 @@
 # Simple NFT Minting Bot
 
 ## Description
-A simple script of an NFT batch minting bot. It can be modified to work as part of a more robust node program or executed as a simple bash script. It needs to be configured to work for a specific NFT project, since the minting functions of the contracts are usually given different names. These can be checked by using tools such as [Etherscan](https://etherscan.io/) The volume and other arguments can also be easily configured.
+A simple script of an NFT batch minting bot. It can be modified to work as part of a more robust node program or executed as a simple bash script. It needs to be configured to work for a specific NFT project, since the minting functions of the contracts are usually given different names. These can be checked by using tools such as [Etherscan](https://etherscan.io/). The volume and other arguments can also be easily configured.
 
 ## Technology Stack & Tools
 
